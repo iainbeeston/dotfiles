@@ -1,0 +1,22 @@
+[user]
+        name = Iain Beeston
+        email = iain@thoughtbot.com
+[core]
+        editor = emacs
+[push]
+        default = current
+[merge]
+        tool = emerge
+        conflictstyle = diff3
+[diff]
+        tool = emerge
+	algorithm = histogram
+[difftool]
+        prompt = false
+[mergetool]
+        prompt = false
+        keepBackup = false
+[credential]
+        helper = osxkeychain
+[rerere]
+        enabled = true
