@@ -3,7 +3,7 @@
 [credential]
         helper = osxkeychain
 [diff]
-	algorithm = histogram
+        algorithm = histogram
 [difftool]
         prompt = false
 [merge]
@@ -13,13 +13,13 @@
         prompt = false
         keepBackup = false
 [pull]
-	rebase = true
+        rebase = true
 [push]
         default = current
 [rerere]
         enabled = true
 [url "ssh://git@heroku.com/"]
-	insteadOf = https://git.heroku.com/
+        insteadOf = https://git.heroku.com/
 [user]
         name = Iain Beeston
         email = iain.beeston@gmail.com
