@@ -19,6 +19,8 @@
         default = current
 [rerere]
         enabled = true
+[url "ssh://git@heroku.com/"]
+	insteadOf = https://git.heroku.com/
 [user]
         name = Iain Beeston
         email = iain.beeston@gmail.com
