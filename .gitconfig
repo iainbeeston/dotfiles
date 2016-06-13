@@ -1,7 +1,8 @@
 [core]
         editor = emacs
-[credential]
-        helper = osxkeychain
+# [credential]
+#       helper = gnome-keyring
+#       helper = osxkeychain
 [diff]
         algorithm = histogram
 [difftool]
