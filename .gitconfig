@@ -1,24 +1,24 @@
-[user]
-        name = Iain Beeston
-        email = iain.beeston@gmail.com
 [core]
         editor = emacs
-[push]
-        default = current
-[pull]
-	rebase = true
-[merge]
-        tool = emerge
-        conflictstyle = diff3
+[credential]
+        helper = osxkeychain
 [diff]
         tool = emerge
 	algorithm = histogram
 [difftool]
         prompt = false
+[merge]
+        tool = emerge
+        conflictstyle = diff3
 [mergetool]
         prompt = false
         keepBackup = false
-[credential]
-        helper = osxkeychain
+[pull]
+	rebase = true
+[push]
+        default = current
 [rerere]
         enabled = true
+[user]
+        name = Iain Beeston
+        email = iain.beeston@gmail.com
