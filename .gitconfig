@@ -5,6 +5,8 @@
         editor = emacs
 [push]
         default = current
+[pull]
+	rebase = true
 [merge]
         tool = emerge
         conflictstyle = diff3
