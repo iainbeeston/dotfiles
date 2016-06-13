@@ -1,3 +1,4 @@
 Host *
+  ChallengeResponseAuthentication no
   Protocol 2
   PasswordAuthentication no
