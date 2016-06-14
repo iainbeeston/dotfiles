@@ -8,12 +8,12 @@
 [difftool]
 	prompt = false
 [merge]
+	conflictstyle = diff3
 	ff = false
 	tool = emerge
-	conflictstyle = diff3
 [mergetool]
-	prompt = false
 	keepBackup = false
+	prompt = false
 [pull]
 	rebase = true
 [push]
