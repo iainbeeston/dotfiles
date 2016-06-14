@@ -8,6 +8,7 @@
 [difftool]
         prompt = false
 [merge]
+        ff = false
         tool = emerge
         conflictstyle = diff3
 [mergetool]
