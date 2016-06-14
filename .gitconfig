@@ -1,27 +1,27 @@
 [core]
-        editor = emacs
+	editor = emacs
 # [credential]
-#       helper = gnome-keyring
-#       helper = osxkeychain
+#	helper = gnome-keyring
+#	helper = osxkeychain
 [diff]
-        algorithm = histogram
+	algorithm = histogram
 [difftool]
-        prompt = false
+	prompt = false
 [merge]
-        ff = false
-        tool = emerge
-        conflictstyle = diff3
+	ff = false
+	tool = emerge
+	conflictstyle = diff3
 [mergetool]
-        prompt = false
-        keepBackup = false
+	prompt = false
+	keepBackup = false
 [pull]
-        rebase = true
+	rebase = true
 [push]
-        default = current
+	default = current
 [rerere]
-        enabled = true
+	enabled = true
 [url "ssh://git@heroku.com/"]
-        insteadOf = https://git.heroku.com/
+	insteadOf = https://git.heroku.com/
 [user]
-        name = Iain Beeston
-        useConfigOnly = true
+	name = Iain Beeston
+	useConfigOnly = true
