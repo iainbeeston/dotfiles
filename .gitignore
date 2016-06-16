@@ -60,3 +60,6 @@ Icon
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
+
+# Open office
+.~lock*
