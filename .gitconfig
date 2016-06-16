@@ -5,6 +5,7 @@
 #	helper = osxkeychain
 [diff]
 	algorithm = histogram
+	compactionHeuristic = true
 [difftool]
 	prompt = false
 [merge]
