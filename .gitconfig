@@ -9,6 +9,8 @@
 	renames = copy
 [difftool]
 	prompt = false
+[fetch]
+	prune = true
 [merge]
 	conflictstyle = diff3
 	ff = false
