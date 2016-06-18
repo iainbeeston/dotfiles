@@ -6,6 +6,7 @@
 [diff]
 	algorithm = patience
 	compactionHeuristic = true
+	renames = copy
 [difftool]
 	prompt = false
 [merge]
