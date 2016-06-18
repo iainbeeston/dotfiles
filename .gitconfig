@@ -4,7 +4,7 @@
 #	helper = gnome-keyring
 #	helper = osxkeychain
 [diff]
-	algorithm = histogram
+	algorithm = patience
 	compactionHeuristic = true
 [difftool]
 	prompt = false
