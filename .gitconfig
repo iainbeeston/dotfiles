@@ -1,5 +1,3 @@
-[core]
-	editor = emacs
 # [credential]
 #	helper = gnome-keyring
 #	helper = osxkeychain
