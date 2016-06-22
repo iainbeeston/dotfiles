@@ -43,7 +43,6 @@ Icon
 # Ruby
 *.gem
 *.rbc
-/.config
 
 # SimpleCov
 /coverage/
