@@ -10,6 +10,10 @@ Setup MacBook Pro broadcom wifi drivers
 
     sudo apt install bcmwl-kernel-source
 
+Install mbpfan, to enable MacBook fan control
+
+    wget https://github.com/dgraziotin/mbpfan/archive/master.zip
+
 Remap caps lock and command to control
 
     gsettings set org.gnome.desktop.input-sources xkb-options "['ctrl:nocaps', 'altwin:ctrl_win']"
