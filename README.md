@@ -14,6 +14,10 @@ Install mbpfan, to enable MacBook fan control
 
     wget https://github.com/dgraziotin/mbpfan/archive/master.zip
 
+Install tlp, to enable better laptop power savings
+
+    sudo apt install tlp
+
 Remap caps lock and command to control
 
     gsettings set org.gnome.desktop.input-sources xkb-options "['ctrl:nocaps', 'altwin:ctrl_win']"
