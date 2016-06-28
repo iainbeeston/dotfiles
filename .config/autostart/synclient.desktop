@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=synclient AccelFactor=0.05 HorizHysteresis=40 VertHysteresis=40 PalmDetect=1 PalmMinZ=300
+Exec=synclient AccelFactor=0.04 HorizHysteresis=40 VertHysteresis=40 PalmDetect=1 PalmMinZ=300 VertScrollDelta=-125 HorizScrollDelta=-125
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
