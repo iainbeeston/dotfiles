@@ -23,6 +23,8 @@
 	default = current
 [rerere]
 	enabled = true
+[remote]
+	pushDefault = origin
 [url "ssh://git@heroku.com/"]
 	insteadOf = https://git.heroku.com/
 [user]
