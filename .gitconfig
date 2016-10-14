@@ -1,6 +1,3 @@
-# [credential]
-#	helper = gnome-keyring
-#	helper = osxkeychain
 [diff]
 	algorithm = patience
 	compactionHeuristic = true
