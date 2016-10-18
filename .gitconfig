@@ -28,4 +28,5 @@
 	insteadOf = https://git.heroku.com/
 [user]
 	name = Iain Beeston
+	email = iainbeeston@users.noreply.github.com
 	useConfigOnly = true
