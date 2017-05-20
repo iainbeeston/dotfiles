@@ -8,7 +8,7 @@ These are the dotfiles I use. Symlink them into place to use them.
 
 To prevent disks from being automounted, first find the UUID for that disk:
 
-    diskutil info <path-to-disk> | grep "Volume UUID"
+    diskutil info <path-to-disk> | grep "Partition UUID"
 
 open `/etc/fstab`:
 
