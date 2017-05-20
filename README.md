@@ -18,6 +18,12 @@ and add the following line:
 
     UUID=<volume-uuid> none hfs rw,noauto
 
+To set up homebrew zsh as the default shell:
+
+    brew install zsh
+    sudo echo '/usr/local/bin/zsh' >> /etc/shells
+    chsh -s /usr/local/bin/zsh
+
 ### Ubuntu
 
 Setup MacBook Pro broadcom wifi drivers
