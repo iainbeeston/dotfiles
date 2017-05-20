@@ -26,6 +26,8 @@
 	showUntrackedFiles = all
 [url "ssh://git@heroku.com/"]
 	insteadOf = https://git.heroku.com/
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
 [user]
 	name = Iain Beeston
 	email = iainbeeston@users.noreply.github.com
