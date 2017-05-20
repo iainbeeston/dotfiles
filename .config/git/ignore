@@ -22,11 +22,14 @@ flycheck_*.el
 # projectiles files
 .projectile
 
+# directory configuration
+.dir-locals.el
+
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
 # MacOS
-.DS_Store
+*.DS_Store
 .AppleDouble
 .LSOverride
 
