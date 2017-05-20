@@ -4,6 +4,8 @@
 	renames = copy
 [difftool]
 	prompt = false
+[difftool "ediff"]
+	cmd = emacs --eval \"(ediff-files \\\"$LOCAL\\\" \\\"$REMOTE\\\")\"
 [fetch]
 	prune = true
 [merge]
@@ -13,6 +15,8 @@
 [mergetool]
 	keepBackup = false
 	prompt = false
+[mergetool "ediff"]
+        cmd = emacs --eval \"(ediff-merge-files-with-ancestor \\\"$LOCAL\\\" \\\"$REMOTE\\\" \\\"$BASE\\\" nil \\\"$MERGED\\\")\"	
 [pull]
 	ff = only
 	rebase = true
