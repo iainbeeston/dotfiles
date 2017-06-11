@@ -6,18 +6,6 @@ These are the dotfiles I use. Symlink them into place to use them.
 
 ### OS X
 
-To prevent disks from being automounted, first find the UUID for that disk (path is probably something like `/dev/disk0s2`):
-
-    diskutil info <path-to-disk> | grep "Partition UUID"
-
-open `/etc/fstab`:
-
-    sudo vifs
-
-and add the following line:
-
-    UUID=<volume-uuid> none hfs rw,noauto
-
 To set up homebrew zsh as the default shell:
 
     brew install zsh
