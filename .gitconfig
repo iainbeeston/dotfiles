@@ -32,12 +32,6 @@
 	pushDefault = origin
 [status]
 	showUntrackedFiles = all
-[url "ssh://git@heroku-bluespot/"]
-	insteadOf = https://git.heroku-bluespot/
-[url "ssh://git@heroku-personal/"]
-	insteadOf = https://git.heroku-personal/
-[url "ssh://git@github.com:"]
-	insteadOf = https://github.com/
 [user]
 	name = Iain Beeston
 	email = iainbeeston@users.noreply.github.com
