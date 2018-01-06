@@ -58,3 +58,6 @@ cask "virtualbox"
 cask "whatsapp"
 cask "caskroom/versions/dash3"
 cask "caskroom/versions/emacs-pretest"
+mas "Irvue", id: 1039633667
+mas "Pixelmator", id: 407963104
+mas "Wunderlist", id: 410628904
