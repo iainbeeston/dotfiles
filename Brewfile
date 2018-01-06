@@ -3,6 +3,7 @@ tap "caskroom/versions"
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/services"
+tap "iainbeeston/custom"
 cask "java"
 brew "aspell"
 brew "emacs", args: ["devel"]
@@ -57,6 +58,7 @@ cask "virtualbox"
 cask "whatsapp"
 cask "caskroom/versions/dash3"
 cask "caskroom/versions/emacs-pretest"
+cask "iainbeeston/custom/sketch-43"
 mas "Amphetamine", id: 937984704
 mas "Irvue", id: 1039633667
 mas "Pixelmator", id: 407963104
