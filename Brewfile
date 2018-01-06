@@ -45,7 +45,6 @@ cask "google-drive-file-stream"
 cask "grandperspective"
 cask "imagealpha"
 cask "imageoptim"
-cask "keepingyouawake"
 cask "launchcontrol"
 cask "libreoffice"
 cask "skype"
@@ -58,6 +57,7 @@ cask "virtualbox"
 cask "whatsapp"
 cask "caskroom/versions/dash3"
 cask "caskroom/versions/emacs-pretest"
+mas "Amphetamine", id: 937984704
 mas "Irvue", id: 1039633667
 mas "Pixelmator", id: 407963104
 mas "Wunderlist", id: 410628904
