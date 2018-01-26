@@ -1,5 +1,5 @@
 [core]
-	editor = emacs --no-window-system
+	editor = emacs
 [diff]
 	algorithm = patience
 	compactionHeuristic = true
@@ -7,7 +7,7 @@
 [difftool]
 	prompt = false
 [difftool "ediff"]
-	cmd = emacs --no-window-system --eval \"(ediff-files \\\"$LOCAL\\\" \\\"$REMOTE\\\")\"
+	cmd = emacs --eval \"(ediff-files \\\"$LOCAL\\\" \\\"$REMOTE\\\")\"
 [fetch]
 	prune = true
 [merge]
@@ -18,7 +18,7 @@
 	keepBackup = false
 	prompt = false
 [mergetool "ediff"]
-        cmd = emacs --no-window-system --eval \"(ediff-merge-files-with-ancestor \\\"$LOCAL\\\" \\\"$REMOTE\\\" \\\"$BASE\\\" nil \\\"$MERGED\\\")\"	
+        cmd = emacs --eval \"(ediff-merge-files-with-ancestor \\\"$LOCAL\\\" \\\"$REMOTE\\\" \\\"$BASE\\\" nil \\\"$MERGED\\\")\"	
 [pull]
 	ff = only
 	rebase = true
