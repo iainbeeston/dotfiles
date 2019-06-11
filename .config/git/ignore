@@ -68,3 +68,7 @@ Icon
 
 # Yarn
 yarn-error.log
+
+# Patch
+*.orig
+*.rej
