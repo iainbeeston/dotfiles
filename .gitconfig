@@ -36,3 +36,5 @@
 	name = Iain Beeston
 	email = iainbeeston@users.noreply.github.com
 	useConfigOnly = true
+[github]
+	user = iainbeeston
