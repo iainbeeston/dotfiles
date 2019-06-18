@@ -64,6 +64,7 @@ cask "whatsapp"
 cask "iainbeeston/custom/sketch-43"
 mas "Amphetamine", id: 937984704
 mas "Irvue", id: 1039633667
+mas "Microsoft To-Do", id: 1274495053
 mas "Pixelmator", id: 407963104
 mas "Tomato One", id: 907364780
 mas "Wunderlist", id: 410628904
