@@ -16,6 +16,7 @@ brew "libxml2"
 brew "libyaml"
 brew "mas"
 brew "node"
+brew "node-build"
 brew "nodenv"
 brew "openssl"
 brew "postgresql", restart_service: true
