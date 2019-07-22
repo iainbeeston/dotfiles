@@ -1,5 +1,3 @@
-[core]
-	editor = emacs -Q
 [diff]
 	algorithm = patience
 	compactionHeuristic = true
