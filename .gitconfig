@@ -30,6 +30,8 @@
 	pushDefault = origin
 [status]
 	showUntrackedFiles = all
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
 [user]
 	name = Iain Beeston
 	email = iainbeeston@users.noreply.github.com
