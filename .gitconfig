@@ -38,3 +38,5 @@
 	useConfigOnly = true
 [github]
 	user = iainbeeston
+[core]
+	attributesfile = /Users/iainbeeston/.gitattributes
