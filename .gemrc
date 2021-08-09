@@ -1,1 +1,1 @@
-gem: --no-document --suggestions
+gem: "--no-document --suggestions"
