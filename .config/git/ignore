@@ -72,3 +72,7 @@ yarn-error.log
 # Patch
 *.orig
 *.rej
+
+# VS Code files for those working on multiple tools
+.vscode/*
+*.code-workspace
