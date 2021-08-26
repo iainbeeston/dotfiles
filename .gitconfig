@@ -1,5 +1,5 @@
 [diff]
-	algorithm = patience
+	algorithm = histogram
 	compactionHeuristic = true
 	renames = copy
 [difftool]
