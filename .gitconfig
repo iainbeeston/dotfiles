@@ -2,6 +2,7 @@
 	algorithm = histogram
 	compactionHeuristic = true
 	renames = copy
+	colorMoved = dimmed-zebra
 [difftool]
 	prompt = false
 [difftool "ediff"]
