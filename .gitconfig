@@ -43,3 +43,5 @@
 	attributesfile = /Users/iainbeeston/.gitattributes
 [alias]
 	recent = branch --sort=-committerdate --format=\"%(committerdate:relative)%09%(refname:short)\"
+[init]
+	defaultBranch = main
