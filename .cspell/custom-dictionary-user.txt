@@ -1,4 +1,2 @@
 # Custom Dictionary Words
-freeagent
 timecop
-todos
