@@ -12,7 +12,6 @@
 [merge]
 	conflictstyle = diff3
 	ff = false
-	tool = emerge
 [mergetool]
 	keepBackup = false
 	prompt = false
